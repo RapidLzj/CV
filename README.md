@@ -4,7 +4,8 @@ Dr. Jie Zheng
 
 jiezheng (at) nao.cas.cn
 
-Assistant Professor at Xinglong Observatory, <br/>National Astronomical Observatories (NAOC), Chinese Academic of Sciences (CAS)
+Assistant Professor at Xinglong Observatory, <br/>
+National Astronomical Observatories (NAOC), Chinese Academic of Sciences (CAS)
 
 ## Research Interest
 
@@ -18,7 +19,7 @@ Assistant Professor at Xinglong Observatory, <br/>National Astronomical Observat
 ## Experiences
 
 | Year | Position / Degree | Institude or University |
-|:----:|:-------|:-------|
+|:----|:-------|:-------|
 |2018/07 - Now    |Assistant Professor|Xinglong Observatory, NAOC, CAS|
 |2016/01 - 2017/01|Joint ph.D Student |	The University of Arizona , Steward Observatory , USA|
 |2012/09 - 2018/06|Ph.D Student,<br/> Astronomical Technologies and Methodology|National Astronomical Observatories (NAOC)|
@@ -30,8 +31,6 @@ Assistant Professor at Xinglong Observatory, <br/>National Astronomical Observat
 |1995/09 - 1999/07|Bachelor of Engineering, <br/>Civil Engineering|Department of Civil and Architecture Engineering , Fuzhou University|
 
 ## Publications
-
-Publications
 
 1. **Zheng Jie**, Zhao Gang, Wang Wei, Fan Zhou, Tan Ke-Feng, Li Chun, Zuo Fang.<br/>
 *Test Area of the SAGE Sky Survey*.<br/>
